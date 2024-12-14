@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.eight
+{
+    display: flex;
+    justify-content: space-around;
+}
+.three{
+    width: 700px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px;
+}
+.one{
+    background-color: black;
+    color: white;
+
+}
+
+.four{
+    width: 225px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px;
+    flex-basis: 20%;
+}
+.five{
+    width: 700px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px; 
+    flex-basis: 20%;
+}
+.six{
+    width:225px;
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px; 
+    flex-basis: 20%;
+} 
